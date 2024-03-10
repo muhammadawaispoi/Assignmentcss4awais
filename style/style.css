@@ -44,4 +44,9 @@ font-weight: normal;
     font-weight: normal;
     margin-top: 5px;
 }
-
+footer p{
+    padding: 3px;
+}
+footer  {
+    margin-bottom: 10px;
+}
